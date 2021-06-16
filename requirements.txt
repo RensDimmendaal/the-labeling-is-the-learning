@@ -1,0 +1,8 @@
+altair
+datasets
+ipysheet
+jupyterlab
+pandas
+rich
+scikit-learn
+whatlies[all]
